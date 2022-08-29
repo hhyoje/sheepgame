@@ -6,5 +6,4 @@ if(global.money > 99){
 		global.grass_pop += 100
 		global.money -= 100
 	}
-	//yo
 }
