@@ -3,7 +3,7 @@
 function get_upgrade_but(){
 	
 	but[0, 0] = but_0_0
-	but[0, 1] = but_0_0
+	but[0, 1] = but_0_1
 	but[0, 2] = but_0_0
 	but[0, 3] = but_0_0
 	

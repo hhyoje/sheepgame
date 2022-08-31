@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_buy_grass",
+  "name": "obj_shop_room_text",
   "tags": [],
   "resourceType": "GMObject",
 }

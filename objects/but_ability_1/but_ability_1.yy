@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_purchase_upgrade",
-    "path": "sprites/spr_purchase_upgrade/spr_purchase_upgrade.yy",
+    "name": "spr_upgrade_red",
+    "path": "sprites/spr_upgrade_red/spr_upgrade_red.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,17 +22,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":13,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Button Upgrades",
-    "path": "folders/Button Upgrades.yy",
+    "name": "Button Abilities",
+    "path": "folders/Button Abilities.yy",
   },
   "resourceVersion": "1.0",
-  "name": "but_0_0",
+  "name": "but_ability_1",
   "tags": [],
   "resourceType": "GMObject",
 }

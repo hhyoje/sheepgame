@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_upgrade_black",
-    "path": "sprites/spr_upgrade_black/spr_upgrade_black.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -22,16 +19,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":13,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Button Objects",
-    "path": "folders/Button Objects.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "but_purchase_upgrade",
+  "name": "obj_upgrade_room_text",
   "tags": [],
   "resourceType": "GMObject",
 }

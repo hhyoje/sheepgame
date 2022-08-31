@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_purchase_upgrade",
-    "path": "sprites/spr_purchase_upgrade/spr_purchase_upgrade.yy",
+    "name": "spr_button",
+    "path": "sprites/spr_button/spr_button.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,11 +28,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Button Upgrades",
-    "path": "folders/Button Upgrades.yy",
+    "name": "Button Objects",
+    "path": "folders/Button Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "but_0_0",
+  "name": "but_buy_level",
   "tags": [],
   "resourceType": "GMObject",
 }

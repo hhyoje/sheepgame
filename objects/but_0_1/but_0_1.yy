@@ -32,7 +32,7 @@
     "path": "folders/Button Upgrades.yy",
   },
   "resourceVersion": "1.0",
-  "name": "but_0_0",
+  "name": "but_0_1",
   "tags": [],
   "resourceType": "GMObject",
 }

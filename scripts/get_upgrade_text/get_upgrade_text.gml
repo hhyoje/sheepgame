@@ -8,8 +8,8 @@ function get_upgrade_text(){
 	text[0, 3] = ""
 
 	text[1, 0] = "Enhancement: Decrease ability CD by 1"
-	text[1, 1] = "Upgrade: Sheep consumption decreased by \n 0.1 during Adrenaline Mode"
-	text[1, 2] = "Ability (Adrenaline Mode): For 3 weeks, sheep survival +0.2, \n growth +2, consumption +0.5 (CD: 6)"
+	text[1, 1] = "Upgrade: Sheep consumption decreased \n by 0.1 during Adrenaline Mode"
+	text[1, 2] = "Ability (Adrenaline Mode): For 3 weeks, sheep \n survival +0.2, growth +2, consumption +0.5 (CD: 6)"
 	text[1, 3] = "Passive: Grass growth increased by 1"
 	  
 	text[2, 0] = "Passive: Sheep population cap increased by 100"
@@ -18,7 +18,7 @@ function get_upgrade_text(){
 	text[2, 3] = ""
 	
 	text[3, 0] = ""
-	text[3, 1] = "Enchancement: Each cast permanently increases survival by 0.1"
+	text[3, 1] = "Enchancement: Each cast permanently \n increases sheep survival by 0.1"
 	text[3, 2] = "Ability (Merchant): Sell 10 sheep for $200"
 	text[3, 3] = "Passive: Every 5 weeks, grass pop +10%"
 	
@@ -33,11 +33,11 @@ function get_upgrade_text(){
 	text[5, 3] = ""
 	
 	text[6, 0] = ""
-	text[6, 1] = "Ability (Guardian Angel): You cannot lose sheep for 5 weeks \n but growth decreases by 5 (CD: 10)"
+	text[6, 1] = "Ability (Guardian Angel): You cannot lose sheep for \n 5 weeks but growth decreases by 5 (CD: 10)"
 	text[6, 2] = "Ability (Nullification): Nullify a random event (CD: 10)"
 	text[6, 3] = ""
 
-	text[7, 0] = "Passive: Sheep "
+	text[7, 0] = "Passive: Sheep consumption increased by 0.1, sheep \n cap increased by 200, sheep growth increased by 2"
 	text[7, 1] = ""
 	text[7, 2] = "Upgrade: Sheep growth decreases by 1 less"
 	text[7, 3] = ""

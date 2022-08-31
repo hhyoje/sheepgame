@@ -8,10 +8,11 @@ global.timer = 0
 global.time = 0
 */
 
-//Week, Money, Level
+//Week, Money, Level, Upgrade Points
 global.week = 0
 global.money = 100
 global.level = 0
+global.upgrade_points = 0
 
 //Sheep stats
 global.sheep_pop = 100
